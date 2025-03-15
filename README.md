@@ -6,6 +6,7 @@ The AI Hiring Assistant is a chatbot built using Streamlit and Google's Gemini A
 ## Installation
 
 ### 1. Clone the repository:
+https://github.com/Katepalli-Sai/Hiring-Assistant.git
 
 ### 2. Create a virtual environment (optional but recommended):
 ```sh
